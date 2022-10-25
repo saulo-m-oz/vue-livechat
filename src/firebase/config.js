@@ -3,12 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB0nSQlhJrOEr2prUtyqUga6fPrnBwINBw",
-    authDomain: "livechat-app-456a8.firebaseapp.com",
-    projectId: "livechat-app-456a8",
-    storageBucket: "livechat-app-456a8.appspot.com",
-    messagingSenderId: "278085891119",
-    appId: "1:278085891119:web:3493a113b423845682c2da"
+    // REDACTED FOR SECURITY REASONS.
   };
 
 // INIT FIREBASE
